@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=online_learning_platform
+POSTGRES_USER=fQtdzAWbMMkEbPJVDtoaxTePAcuUwoce
+POSTGRES_PASSWORD=h6QXqrZ4EW0PklmTUAv6OWOGAdnNyQovYIae63X2MWjHRUIlp4Tdx9jsOG64LBMl
